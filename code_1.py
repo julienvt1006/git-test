@@ -1,4 +1,5 @@
 
+from module import obtenir_temps
 from datetime import datetime
 print(obtenir_temps())
 print(5)
